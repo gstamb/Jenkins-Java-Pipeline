@@ -1,4 +1,4 @@
-# dob-practice-tools-4
+# Jenkins pipiline
 Jenkins pipeline hook dind maven
 
 Exercises part of the Jenkins, From Zero To Hero: Become a DevOps Jenkins Master course                               
